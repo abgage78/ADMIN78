@@ -4,6 +4,14 @@
 
 Ce guide fournit un socle de durcissement pour Ubuntu Server et Ubuntu Desktop. Adaptez chaque mesure à votre contexte (services, accès, conformité).
 
+### Script d’aide
+
+Un script de base est disponible pour automatiser une partie des actions (mode dry-run par défaut):
+
+- `./scripts/hardening_ubuntu.sh --server`
+- `./scripts/hardening_ubuntu.sh --apply --server`
+- `./scripts/hardening_ubuntu.sh --desktop`
+
 ### 1) Mises à jour et gestion des correctifs
 - Activer les dépôts officiels et appliquer les mises à jour de sécurité régulièrement.
 - Installer les mises à jour automatiques:
