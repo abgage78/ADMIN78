@@ -20,6 +20,13 @@ Le fichier genere contient:
 - Un tableau par service (score, responsable, statut).
 - Un graphique en barres des scores.
 
+### Extensions VS Code recommandees
+- Python (ms-python.python)
+- Pylance (ms-python.vscode-pylance)
+- EditorConfig (editorconfig.editorconfig)
+- Markdown All in One (yzhang.markdown-all-in-one)
+- ShellCheck (timonwong.shellcheck)
+
 ## Durcissement Ubuntu Server et Desktop
 
 Ce guide fournit un socle de durcissement pour Ubuntu Server et Ubuntu Desktop. Adaptez chaque mesure a votre contexte (services, acces, conformite).
