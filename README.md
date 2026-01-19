@@ -21,11 +21,11 @@ Le fichier genere contient:
 - Un graphique en barres des scores.
 
 ### Extensions VS Code recommandees
-- Python (ms-python.python)
-- Pylance (ms-python.vscode-pylance)
-- EditorConfig (editorconfig.editorconfig)
-- Markdown All in One (yzhang.markdown-all-in-one)
-- ShellCheck (timonwong.shellcheck)
+- Python (ms-python.python) - support Python, debug, linting.
+- Pylance (ms-python.vscode-pylance) - analyse statique et autocompletion.
+- EditorConfig (editorconfig.editorconfig) - conventions de formatage partagees.
+- Markdown All in One (yzhang.markdown-all-in-one) - aide a la redaction Markdown.
+- ShellCheck (timonwong.shellcheck) - validation des scripts bash.
 
 ## Durcissement Ubuntu Server et Desktop
 
